@@ -24,5 +24,10 @@ This is a project for a Deep Learning Course. The project implements a TDCN++ so
 
 - `tdcnpp.py` is the file containing the implementation of TDCN++.
 
+- `checkpoints_TDCNpp_binary_data_4` is TDCN++ checkpoint folder
+- `checkpoints_embednet_only_1024_0.0001_new_loss_new_model_5s_alignedSimCLR_less_f_o` is embedding model checkpoint folder
+- `checkpoints_embed_cl_1024_0.0001_2_layers_BCE_5s_last_nohierch_2022_2` is classifier checkpoint folder
+
+
 ![Alt Text](img/gifka.gif)
 
